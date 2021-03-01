@@ -93,3 +93,5 @@ function areTheseTheSame( thing1, thing2 ){
         console.log( 'different with ===' );
     }
 } // end isTheTruth
+
+let otherTHing = 'wfwrfrw';
