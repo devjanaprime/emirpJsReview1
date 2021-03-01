@@ -94,4 +94,4 @@ function areTheseTheSame( thing1, thing2 ){
     }
 } // end isTheTruth
 
-let otherTHing = 'wfwrfrw';
+let otherThing = 'wfwrfrw';
